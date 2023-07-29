@@ -1,7 +1,7 @@
 {
-    "name": "𖣔𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗⛦⃕‌🇮🇳",
+    "name": "˹ 𝙈𝙍 मोह माया ˼[⛦⃕‌🇮🇳]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/058767efac2ec6943fae4.jpg",
+    "logo": "https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "𝐀 𝐍𝐀𝐌𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔𝐑 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓. 𝐀𝐋𝐖𝐀𝐘𝐒 𝐖𝐑𝐈𝐓𝐄 𝐈𝐍 𝐒𝐈𝐌𝐏𝐋𝐄 𝐋𝐄𝐓𝐓𝐄𝐑",
-        "value": "DAXX X MUSIC",
+        "value": "MOH MAYA X MUSIC",
         "required": true
       },
       "OWNER_ID": {
@@ -61,7 +61,7 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ). ",
 
-       "value": "CYBERDAXXX",
+       "value": "LOVE_KI_DUNIYA1",
 
        "required": true
 
@@ -70,14 +70,14 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ). ",
 
-       "value": "CYBERDAXX",
+       "value": "THE_MOH_MAYA",
 
        "required": true
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/058767efac2ec6943fae4.jpg",
+        "value": "https://graph.org/file/443076090048170968b90.jpg",
         "required": false
       },
       "LOG_GROUP_ID": {
@@ -104,4 +104,4 @@
           }
       },
       "stack": "container"
-  }
+          }
