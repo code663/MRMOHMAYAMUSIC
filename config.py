@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "DAXX MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MOH MAYA MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/cyberdaxx")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/cyberdaxxx")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/the_moh_maya")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/love_ki_duniya1")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -166,66 +166,66 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/443076090048170968b90.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+    "https://graph.org/file/443076090048170968b90.jpg",
 )
 
 
