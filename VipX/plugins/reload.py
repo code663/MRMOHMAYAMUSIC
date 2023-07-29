@@ -130,7 +130,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                          "• нαϲкє𝚍 ву 𝐃𝐀𝐗𝐗 •", url=f"https://t.me/CYBERDAXXX")
+                          "• нαϲкє𝚍 ву 𝐌𝐎𝐇 𝐌𝐀𝐘𝐀 •", url=f"https://t.me/The_moh_maya")
                  ]
              ]
          ),
