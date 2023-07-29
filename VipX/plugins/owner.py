@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+        photo=f"https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🌹", url=f"https://t.me/CYBERDAXXX")
+                        "🌹 𝗠𝗢𝗛 𝗠𝗔𝗬𝗔 🌹", url=f"https://t.me/MOH_MAYA_OFFICIAL")
                 ]
             ]
         ),
@@ -35,13 +35,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+        photo=f"https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🌹", url=f"https://t.me/CYBERDAXXX")
+                        "🌹 𝐌𝐎𝐇 𝐌𝐀𝐘𝐀 🌹", url=f"https://t.me/MOH_MAYA_OFFICIAL")
                 ]
             ]
         ),
