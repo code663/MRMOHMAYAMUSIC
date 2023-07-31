@@ -36,7 +36,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THEMOHMAYA/MR-MOH-MAYA-MUSIC"> <img src="https://graph.org/file/cf4dc71a01daef1a1577f.jpg" width="1220" height="538.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC"> <img src="https://graph.org/file/cf4dc71a01daef1a1577f.jpg" width="1220" height="538.45"/></a></p>
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
@@ -52,7 +52,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/THEMOHMAYA/MR-MOH-MAYA-MUSIC//blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC//blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -64,7 +64,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/THEMOHMAYA/MR-MOH-MAYA-MUSIC && cd MR-MOH-MAYA-MUSIC`
+`git clone https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC && cd MRMOHMAYAMUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
