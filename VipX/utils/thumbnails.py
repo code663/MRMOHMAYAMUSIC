@@ -14,7 +14,9 @@ from VipX import app
 YOUTUBE_IMG_URL = [ 
 
 "https://graph.org/file/443076090048170968b90.jpg",
-
+"https://graph.org/file/23663b8d12b357e5b2500.jpg",
+"https://graph.org/file/c61f2a9413a3a94e72231.jpg",
+"https://graph.org/file/d690fb408e2595ce78913.jpg",  
     
     ]
 
