@@ -13,11 +13,11 @@ import config
 from VipX import app
 YOUTUBE_IMG_URL = [ 
 
-"https://graph.org/file/443076090048170968b90.jpg",
-"https://graph.org/file/23663b8d12b357e5b2500.jpg",
-"https://graph.org/file/c61f2a9413a3a94e72231.jpg",
-"https://graph.org/file/d690fb408e2595ce78913.jpg",  
-    
+"https://graph.org/file/ee021564acb771a22de5b.jpg",
+"https://graph.org/file/f1630273a2ff44583381c.jpg",
+"https://graph.org/file/124f0c668325b75c27402.jpg",
+"https://graph.org/file/a402fbc795873c4f8bf53.jpg",  
+"https://graph.org/file/78ac6fc48e240895e5ec8.jpg",
     ]
 
 
