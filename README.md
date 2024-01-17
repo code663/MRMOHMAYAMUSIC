@@ -38,9 +38,6 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC"> <img src="https://graph.org/file/cf4dc71a01daef1a1577f.jpg" width="1220" height="538.45"/></a></p>
 
-## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=soci)
 
 <h2 align="center">
 
@@ -85,9 +82,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/love_ki_duniya1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/tmm_support_chat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/THE_MOH_MAYA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TMM_HEROKU_WORLD"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
