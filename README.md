@@ -23,7 +23,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
   <img src="https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg">
 </p>
 
-𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/reesomusicbot)
+𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/Spotify_x_music_bot)
 
 
 
